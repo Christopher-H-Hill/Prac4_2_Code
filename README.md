@@ -1,2 +1,2 @@
 # Prac4_2_Code
-EEE4120F Prac code
+This is the verilog code for the practical 4.2
